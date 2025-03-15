@@ -1,3 +1,4 @@
+Address Book 
 Introduction
 Address Book Project is an application written in C language. 
 	It keeps track of names and telephone/mobile numbers and e-mail addresses. 
@@ -15,3 +16,35 @@ it will not use any Abstract Data Type (ADTs) like linked lists, rather you will
 
  
 By implementing this project in a hands-on way you will be able to build a firm understanding on the code C programming concepts and how to apply them on a use case like address book.
+
+
+
+
+Requirement Details
+Here is the list of requirements that your address book should be in a position to handle.     
+
+Add Contact
+Add a contact giving username
+Add phone numbers to the newly added contact
+Add e-mail addresses to the newly added contact  
+
+Search Contact
+Search a contact by name.
+Search contact by phone number.
+Search contact by e-mail address.   
+
+Edit Contact
+Edit by name.
+Edit contact by phone number.
+Edit contact by email address.
+
+Delete contact
+Edit by name.
+Edit contact by phone number.
+Edit contact by email address.
+
+List all contacts
+
+Save the address book.
+
+Exit the application.
